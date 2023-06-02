@@ -7,7 +7,7 @@ import FeedbackCard from "./FeedbackCard";
 import GetStarted from "./GetStarted";
 import Footer from "./Footer";
 import Hero from "./Hero";
-import Navbar from "./NavBar";
+import Navbar from "./Navbar";
 import Stats from "./Stats";
 import Testimonial from "./Testimonial";
 import CTA from "./CTA";
